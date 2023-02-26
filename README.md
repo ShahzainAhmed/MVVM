@@ -1,1 +1,1 @@
-# MVVM
+# MVVM - Model-View-ViewModel
